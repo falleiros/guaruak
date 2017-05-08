@@ -1,0 +1,18 @@
+{
+    "termos": {
+        "barco": {
+            "pt-br": "Barco",
+            "gua": "Teste 1"
+        },
+
+        "carro": {
+            "pt-br": "Carro",
+            "gua": "Teste 2"
+        },
+
+        "casa": {
+            "pt-br": "Casa",
+            "gua": "Teste 3"
+        }
+    }
+}
